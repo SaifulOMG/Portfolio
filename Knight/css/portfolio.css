@@ -1,0 +1,54 @@
+/*This is my portfolio css file*/
+
+
+.team-leader-box
+{
+    width: 20.66% !important;
+}
+
+.progress-bar-custom
+{
+    background-color:#232323;
+}
+
+.progress
+{
+    height: 25px;
+}
+
+.icon
+{
+    font-size: 20px;
+    font-size: 20px;
+}
+
+h3
+{
+    margin: 0 0 12px 0 !important;
+}
+
+.prog
+{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.header {
+    margin: 0;
+    background: #222;
+    min-width: 960px;
+    /*fill: none;
+    pointer-events: all;*/
+/*  position: relative;*/
+}
+
+rect{
+  fill: none;
+  pointer-events: all;
+}
+
+circle {
+  fill: none;
+  stroke-width: 2.5px;
+}
