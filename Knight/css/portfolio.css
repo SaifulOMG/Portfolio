@@ -77,6 +77,10 @@ circle {
   stroke-width: 2.5px;
 }
 
+.we-create {
+    padding-top: 150px;
+}
+
 svg[Attributes Style] {
     /*width: 100% !important;
     height: auto !important;
@@ -139,7 +143,7 @@ svg[Attributes Style] {
 }
 .social-link{
     margin: auto;
-    padding-left: 450px;
+    padding-left: 514px;
 }
 
 .port{
@@ -156,4 +160,28 @@ svg[Attributes Style] {
     transform: rotate(15deg);
     transition-duration: 2s;
     
+}
+
+.footer{
+    padding-bottom: 0;
+    padding-top: 20px;
+}
+
+.techDesc{
+    text-align: center;
+}
+
+.imgCodeIcons{
+    margin:auto;
+    padding-left: 128px;
+    
+}
+
+.service-box-content{
+    margin-bottom: 40px;
+}
+
+.logo{
+    padding-left: 10px;
+    padding-top: 90px;
 }
